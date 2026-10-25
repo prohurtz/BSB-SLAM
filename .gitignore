@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Build output
+build/
+dist/
+*.spec
+.tools/
+
+# Visual Studio / MSVC
+.vs/
+*.user
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.lib
+*.exp
+*.log
+Driver/x64/
+Driver/Beyond-SLAM/
+
+# Vendored OpenVR import library is needed to link the driver
+!Driver/openvr-master/lib/win64/openvr_api.lib
+
+# OS clutter
+Thumbs.db
+Desktop.ini
+.DS_Store

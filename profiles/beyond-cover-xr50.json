@@ -1,0 +1,18 @@
+{
+  "name": "Beyond Cover / upside-down XR50 / 10 degree downward pitch",
+  "calibration_version": 2,
+  "position": [0.0000795101, 0.0056645177, 0.0516054844],
+  "rotation": [0.0, 0.0, 0.0871557427, 0.9961946981],
+  "source": {
+    "document": "Cover (Fusion, inspected 2026-10-01)",
+    "datum": "Body19 2 mm diameter hole, outward circular edge center",
+    "hole_center_cover_mm": [-2.08504655, -0.12726962, 0.0],
+    "outward_axis_cover": [0.9961946981, -0.0871557427, 0.0],
+    "tracker_forward_from_hole_mm": 2.0,
+    "head_origin_lighthouse_mm": [0.0, 1.014, 11.579],
+    "cad_to_lighthouse_translation_mm": [0.0795101, 1.0867269, 12.6297174],
+    "sensor_registration_rms_mm": 0.3686501,
+    "method": "Six shell screw centers register official Beyond STEP to Cover; 22 photodiode normals establish CAD-to-Lighthouse correspondence; least squares fits CAD translation and a common package-local photosensitive point to this headset's calibrated sensor positions.",
+    "uncertainty": "Nominal CAD estimate, including the user-estimated 2 mm tracking origin. Not validated against an independent Lighthouse motion capture."
+  }
+}

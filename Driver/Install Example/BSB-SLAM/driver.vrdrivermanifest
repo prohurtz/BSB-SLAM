@@ -1,0 +1,7 @@
+{
+  "name": "BSB-SLAM",
+  "driver_version": "1.0",
+  "driver_path": "driver_BSB-SLAM.dll",
+  "resourceOnly": false,
+  "alwaysActivate": true
+}
