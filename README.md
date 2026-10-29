@@ -28,7 +28,7 @@ It comes with a SteamVR driver and a desktop app that sets everything up for you
 ## What you need
 
 - A Bigscreen Beyond
-- An Xvisio XR50 ([buy one at Mouser](https://www.mouser.com/en/ProductDetail/Xvisio/XR50?qs=T%252BzbugeAwjjZam0seb3s1Q%3D%3D))
+- An Xvisio XR50 ([buy one at Mouser](https://www.mouser.com/en/ProductDetail/Xvisio/XR50?qs=T%252BzbugeAwjjZam0seb3s1Q%3D%3D) [Or Electromaker (better for international)](https://www.electromaker.io/shop/product/small-form-factor-6dof-sensor)) 
 - A USB-C to Micro-USB cable ([recommended](https://link.amazon/B0aq5lDhA), [alternative](https://link.amazon/B0aeJE4tO)). 0.65 ft is the shortest that works; 0.6 ft is too short.
 - A Windows 10/11 64-bit PC with SteamVR
 - The mount below (or your own)
